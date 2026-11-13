@@ -1,0 +1,4 @@
+order,start_sec,end_sec,duration_sec,emotion,avg_confidence
+1,0.06,2.07,2.01,NO FACE,0.12
+2,2.07,4.47,2.4,NEUTRAL,0.49
+3,4.47,6.56,2.09,NO FACE,0.0

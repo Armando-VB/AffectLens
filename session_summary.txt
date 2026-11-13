@@ -1,0 +1,17 @@
+======================================================================
+   ACADEMIC RESEARCH: INTERVIEWEE EMOTION & REACTION REPORT
+======================================================================
+Session Timestamp:       2026-11-13 21:22:11
+Total Session Duration:  6.6 seconds (0.11 min)
+Emotion Transitions:     3 state changes recorded
+Dominant Emotion:        NO FACE (62.5% of session)
+----------------------------------------------------------------------
+1. EMOTION DURATION DISTRIBUTION:
+  - NO FACE           :   4.1 s  ( 62.5%)
+  - NEUTRAL           :   2.4 s  ( 36.6%)
+----------------------------------------------------------------------
+2. CHRONOLOGICAL EMOTION TIMELINE (STATE SEQUENCING):
+  #01 [00:00 -> 00:02] NO FACE          (lasted  2.0s | conf: 12%)
+  #02 [00:02 -> 00:04] NEUTRAL          (lasted  2.4s | conf: 49%)
+  #03 [00:04 -> 00:06] NO FACE          (lasted  2.1s | conf: 0%)
+======================================================================
